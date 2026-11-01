@@ -16,10 +16,9 @@
 
 ### A little about me
 
-I'm a software developer with **4 years of professional experience developing and maintaining e-banking systems**, working with **Laravel, Vue.js, PHP, and Docker**. My work covers full-stack feature development, system maintenance, troubleshooting, and testing.
+I build web and mobile applications with **React, Next.js, React Native, and Flutter**. My projects explore personal finance, useful dashboards, and real-time communication.
 
-Outside of work, I build web and mobile applications with **React, Next.js, React Native, and Flutter**, exploring personal finance, useful dashboards, and real-time communication.
-
+- **E-banking:** 4 years of professional experience developing and maintaining e-banking systems using **Laravel, Vue.js, and PHP**.
 - **Web + Android:** Bayarin brings monthly bills and payment tracking to both platforms.
 - **Real-time mobile:** RideLink explores group voice communication for motorcycle riders.
 - **Personal finance:** Expense Tracker brings daily spending, budgets, and category insights into a mobile app.
@@ -30,7 +29,7 @@ Outside of work, I build web and mobile applications with **React, Next.js, Reac
 
 Focused on developing and maintaining e-banking and banking systems used by client banks in the Philippines.
 
-- Develop and maintain full-stack features using **Laravel, Vue.js, PHP, and Docker**.
+- Develop and maintain full-stack features using **Laravel, Vue.js, and PHP**.
 - Troubleshoot application issues and support reliable system performance.
 - Perform manual testing and **Cypress test automation**.
 - Collaborate with team members to deliver accurate, secure solutions.
