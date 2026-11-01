@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="600" height="80" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm Darreck 👋</title>
+  <desc id="description">A looping typewriter greeting with a blinking green cursor.</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .typing-window { width: 360px !important; }
+      .typing-cursor { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing-clip">
+      <rect class="typing-window" x="120" y="0" width="360" height="80">
+        <animate attributeName="width" values="0.0;19.2;38.4;57.6;76.8;96.0;115.2;134.4;153.6;172.8;192.0;211.2;230.4;249.6;268.8;288.0;307.2;326.4;360.0;360.0;326.4;307.2;288.0;268.8;249.6;230.4;211.2;192.0;172.8;153.6;134.4;115.2;96.0;76.8;57.6;38.4;19.2;0.0;0.0" dur="6.8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.022059;0.044118;0.066176;0.088235;0.110294;0.132353;0.154412;0.176471;0.198529;0.220588;0.242647;0.264706;0.286765;0.308824;0.330882;0.352941;0.375000;0.397059;0.661765;0.669853;0.677941;0.686029;0.694118;0.702206;0.710294;0.718382;0.726471;0.734559;0.742647;0.750735;0.758824;0.766912;0.775000;0.783088;0.791176;0.799265;0.807353;1.000000" />
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#typing-clip)">
+    <text x="120" y="43" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="32" font-weight="700" fill="#B4FF79">Hey, I'm Darreck 👋</text>
+  </g>
+  <rect class="typing-cursor" x="480" y="25" width="2.5" height="32" rx="1" fill="#B4FF79">
+    <animate attributeName="x" values="120.0;139.2;158.4;177.6;196.8;216.0;235.2;254.4;273.6;292.8;312.0;331.2;350.4;369.6;388.8;408.0;427.2;446.4;480.0;480.0;446.4;427.2;408.0;388.8;369.6;350.4;331.2;312.0;292.8;273.6;254.4;235.2;216.0;196.8;177.6;158.4;139.2;120.0;120.0" dur="6.8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.022059;0.044118;0.066176;0.088235;0.110294;0.132353;0.154412;0.176471;0.198529;0.220588;0.242647;0.264706;0.286765;0.308824;0.330882;0.352941;0.375000;0.397059;0.661765;0.669853;0.677941;0.686029;0.694118;0.702206;0.710294;0.718382;0.726471;0.734559;0.742647;0.750735;0.758824;0.766912;0.775000;0.783088;0.791176;0.799265;0.807353;1.000000" />
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="0.9s" repeatCount="indefinite" calcMode="discrete" />
+  </rect>
+</svg>
