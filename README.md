@@ -2,9 +2,9 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/darreck0/darreck0/main/assets/animated-greeting.svg" alt="Hey, I'm Darreck 👋" width="600" height="80" /></h1>
 
-### Web & mobile developer
+### Software developer · E-banking, web & mobile
 
-Building practical apps for everyday life — from monthly bills to staying connected on the road.
+4 years of professional experience in e-banking systems, alongside practical web and mobile apps.
 
 [![View my portfolio](https://img.shields.io/badge/PORTFOLIO-DARRECK--PORTFOLIO.VERCEL.APP-B4FF79?style=for-the-badge&logo=vercel&logoColor=B4FF79&labelColor=1C241B)](https://darreck-portfolio.vercel.app)
 
@@ -16,11 +16,24 @@ Building practical apps for everyday life — from monthly bills to staying conn
 
 ### A little about me
 
-I build web and mobile applications with **React, Next.js, React Native, and Flutter**. My projects explore personal finance, useful dashboards, and real-time communication.
+I'm a software developer with **4 years of professional experience developing and maintaining e-banking systems**, working with **Laravel, Vue.js, PHP, and Docker**. My work covers full-stack feature development, system maintenance, troubleshooting, and testing.
+
+Outside of work, I build web and mobile applications with **React, Next.js, React Native, and Flutter**, exploring personal finance, useful dashboards, and real-time communication.
 
 - **Web + Android:** Bayarin brings monthly bills and payment tracking to both platforms.
 - **Real-time mobile:** RideLink explores group voice communication for motorcycle riders.
 - **Personal finance:** Expense Tracker brings daily spending, budgets, and category insights into a mobile app.
+
+### 💼 Work experience
+
+**Software Developer · Asenso Solutions, Inc.**
+
+Focused on developing and maintaining e-banking and banking systems used by client banks in the Philippines.
+
+- Develop and maintain full-stack features using **Laravel, Vue.js, PHP, and Docker**.
+- Troubleshoot application issues and support reliable system performance.
+- Perform manual testing and **Cypress test automation**.
+- Collaborate with team members to deliver accurate, secure solutions.
 
 ### 🛠️ Tech stack
 
@@ -29,7 +42,7 @@ I build web and mobile applications with **React, Next.js, React Native, and Flu
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flutter,supabase&amp;theme=dark&amp;perline=11" alt="Next.js, Tailwind CSS, Flutter, and Supabase" />
+  <img src="https://skillicons.dev/icons?i=php,vue,cypress,nextjs,tailwind,flutter,supabase&amp;theme=dark&amp;perline=11" alt="PHP, Vue.js, Cypress, Next.js, Tailwind CSS, Flutter, and Supabase" />
 </p>
 
 **Mobile:** React Native · Expo · Flutter
