@@ -20,19 +20,17 @@ I build web and mobile applications with **React, Next.js, React Native, and Flu
 - **Real-time mobile:** RideLink explores group voice communication for motorcycle riders.
 - **Personal finance:** Expense Tracker brings daily spending, budgets, and category insights into a mobile app.
 
-### Tools I build with
+### 🛠️ Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
-  <br />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Supabase-14231D?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,git,github,vscode,linux,laravel,docker&amp;theme=dark&amp;perline=11" alt="JavaScript, TypeScript, React, Node.js, Python, Git, GitHub, Visual Studio Code, Linux, Laravel, and Docker" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,flutter,supabase&amp;theme=dark&amp;perline=11" alt="Next.js, Tailwind CSS, Flutter, and Supabase" />
+</p>
+
+**Mobile:** React Native · Expo · Flutter
 
 ## Selected projects
 
