@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Darreck 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/darreck0/darreck0/main/assets/animated-greeting.svg" alt="Hey, I'm Darreck 👋" width="600" height="80" /></h1>
 
 ### Web & mobile developer
 
