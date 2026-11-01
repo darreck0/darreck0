@@ -6,7 +6,7 @@
 
 Building practical apps for everyday life — from monthly bills to staying connected on the road.
 
-[![View my portfolio](https://img.shields.io/badge/PORTFOLIO-B4FF79?style=for-the-badge&logo=vercel&logoColor=0B1109)](https://darreck-portfolio.vercel.app)
+[![View my portfolio](https://img.shields.io/badge/PORTFOLIO-DARRECK--PORTFOLIO.VERCEL.APP-B4FF79?style=for-the-badge&logo=vercel&logoColor=B4FF79&labelColor=1C241B)](https://darreck-portfolio.vercel.app)
 
 [Explore my projects](#selected-projects) · [Try Bayarin for Android](https://github.com/darreck0/bayarin/releases/tag/android-v1.0.0)
 
